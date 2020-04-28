@@ -1,0 +1,10 @@
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Mahdi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
